@@ -45,8 +45,8 @@ When you get notified of an update to your track only resource:
 ### I don't like <resource>, or <resource> is incompatible with my device.
 No problem. Keep what you like, remove the rest!
 
-### What happened to Citra / Yuzu?
-These repositories [no longer exist](https://twitter.com/yuzuemu/status/1764733659444064671) due to a [lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.rid.56980/gov.uscourts.rid.56980.10.0.pdf) by Nintendo against Tropic Haze LLC (former maintainers of Citra & Yuzu). Links to broken repositories cause errors in obtainium; and so, they were removed from this export script.
+### Can you add Citra / Yuzu?
+No, for legal reasons they were removed by Nintendo, I will not be adding these here
 
 ### A note about stable, nightly and canary versions of the same app
 You cannot install more than one version of the same app. For example: You must choose between RetroArch (stable) or RetroArch (nightly). You cannot have both.
