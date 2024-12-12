@@ -5,7 +5,7 @@
 An [Obtainium](https://github.com/ImranR98/Obtainium) import file that adds popular Android
 emulation applications to Obtainium.
 
-To get started, navigate to releases and download the latest obtainium-emulation-back.json.
+To get started, navigate to releases and download the latest obtainium-emulator-pack.json.
 Finally; import file with Obtainium.
 
 Adds the following to auto pull:
