@@ -1,4 +1,5 @@
-[https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png] # Obtainium Emulator Pack
+![icon_small](https://github.com/user-attachments/assets/10876868-dbe5-47cd-9d0e-650450e6a29a) # Obtainium Emulator Pack
+
 **(Forked from: https://github.com/RJNY/Obtainium-Emulation-Pack)**
 
 An [Obtainium](https://github.com/ImranR98/Obtainium) import file that adds popular Android
