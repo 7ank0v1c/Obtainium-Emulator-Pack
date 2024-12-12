@@ -38,18 +38,15 @@ Finally; import file with Obtainium.
 As the name suggests, these application versions are only tracked, not automatically downloaded. This was implemented due to legal restrictions that prevent us from directly downloading these resources. However, you will still receive update notifications, allowing you to manually download the resources when they become available. For instance, NetherSX2 cannot provide an APK for legal reasons, but you will be notified of updates so that you can download the resource manually.
 
 **Instructions for Using “TRACK ONLY” Resources:**
-
-- Upon receiving an update notification for a “TRACK ONLY” resource:
-    - visit the link to your resource
-    - download it manually
-    - in obtainium > click resource > click "Mark Updated"
+Upon receiving an update notification for a “TRACK ONLY” resource:
+- visit the link to your resource
+- download it manually
+- in obtainium > click resource > click "Mark Updated"
 
 **Removing Applications:**
-
 If you do not wish to include an application, simply remove it from your list.
 
 **Citra and Yuzu:**
-
 Regrettably, Citra and Yuzu are not included in this pack due to legal restrictions imposed by Nintendo.
 
 **A Note Regarding Stable, Nightly, and Canary Versions of the Same Application**
