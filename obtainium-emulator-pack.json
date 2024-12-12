@@ -18,19 +18,13 @@
    "url": "https://github.com/TapiocaFox/Daijishou",
    "author": "TapiocaFox",
    "name": "Daijishō",
-   "installedVersion": "v1.4.76",
-   "latestVersion": "v1.4.76",
    "apkUrls": "[[\"408.apk\",\"https://api.github.com/repos/TapiocaFox/Daijishou/releases/assets/199597847\"]]",
    "otherAssetUrls": "[[\"v1.4.76.tar.gz\",\"https://api.github.com/repos/TapiocaFox/Daijishou/tarball/v1.4.76\"],[\"v1.4.76.zip\",\"https://api.github.com/repos/TapiocaFox/Daijishou/zipball/v1.4.76\"]]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-   "lastUpdateCheck": 1733920800539844,
-   "pinned": false,
    "categories": [
        "Utilities"
    ],
-   "releaseDate": 1729111728000000,
-   "changeLog": "**⚠️  The APK aims for universal distribution.**\r\n\r\n# 1.4.76\r\n- Fixed app page not memorizing sorting mode.\r\n- Fixed a crash relate to pin and play widget.\r\n- Added GIF support for image block widget.\r\n- Updated experimental.",
    "overrideSource": null,
    "allowIdChange": false
   },
@@ -39,19 +33,13 @@
    "url": "https://www.duckstation.org/android/",
    "author": "www.duckstation.org",
    "name": "DuckStation",
-   "installedVersion": "0.1-8108",
-   "latestVersion": "0.1-8108",
    "apkUrls": "[[\"1069342510-duckstation-beta.apk\",\"https://www.duckstation.org/android/duckstation-beta.apk\"]]",
    "otherAssetUrls": "[]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"intermediateLink\":[],\"customLinkFilterRegex\":\"https://www.duckstation.org/android/duckstation-beta.apk\",\"filterByLinkText\":false,\"skipSort\":false,\"reverseSort\":false,\"sortByLastLinkSegment\":false,\"versionExtractWholePage\":true,\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"APKLinkHash\",\"trackOnly\":false,\"versionExtractionRegEx\":\"(\\\\d.\\\\d-\\\\d+).*\",\"matchGroupToUse\":\"$1\",\"versionDetection\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"supportFixedAPKURL\":false}",
-   "lastUpdateCheck": 1733920860647818,
-   "pinned": false,
    "categories": [
        "Emulator"
    ],
-   "releaseDate": null,
-   "changeLog": null,
    "overrideSource": null,
    "allowIdChange": false
   },
@@ -87,19 +75,13 @@
    "url": "https://github.com/EKA2L1/EKA2L1",
    "author": "EKA2L1",
    "name": "EKA2L1",
-   "installedVersion": "continous",
-   "latestVersion": "continous",
    "apkUrls": "[[\"EKA2L1-Android.apk\",\"https://api.github.com/repos/EKA2L1/EKA2L1/releases/assets/161250055\"]]",
    "otherAssetUrls": "[[\"EKA2L1-Linux-x86_64.AppImage\",\"https://github.com/EKA2L1/EKA2L1/releases/download/continous/EKA2L1-Linux-x86_64.AppImage\"],[\"EKA2L1-MacOS-x86_64.zip\",\"https://github.com/EKA2L1/EKA2L1/releases/download/continous/EKA2L1-MacOS-x86_64.zip\"],[\"EKA2L1-Windows-x86_64.zip\",\"https://github.com/EKA2L1/EKA2L1/releases/download/continous/EKA2L1-Windows-x86_64.zip\"],[\"continous.tar.gz\",\"https://api.github.com/repos/EKA2L1/EKA2L1/tarball/continous\"],[\"continous.zip\",\"https://api.github.com/repos/EKA2L1/EKA2L1/zipball/continous\"]]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-   "lastUpdateCheck": 1733920860679098,
-   "pinned": false,
    "categories": [
        "Emulator"
    ],
-   "releaseDate": 1712716584000000,
-   "changeLog": "## Commits\n- Disable harfbuzz ([Do Trong Thu](https://github.com/EKA2L1/EKA2L1/commit/e67f84dc605ea30afc1ab6f4f43c0f855eec79a5))",
    "overrideSource": null,
    "allowIdChange": false
   },
@@ -175,7 +157,6 @@
    "url": "https://github.com/RJNY/Obtainium-Emulation-Pack",
    "author": "RJNY",
    "name": "Obtainium Emulation Pack",
-   "latestVersion": "v3.1.0",
    "apkUrls": "[]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Obtainium Emulation Pack\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
@@ -186,10 +167,9 @@
   },
     {
    "id": "904332841",
-   "url": "https://github.com/7ank0v1c/Obtainium-Emulation-Pack",
+   "url": "https://github.com/7ank0v1c/Obtainium-Emulator-Pack",
    "author": "7ank0v1c & RJNY",
-   "name": "Obtainium Emulation Pack",
-   "latestVersion": "v1.0.0",
+   "name": "Obtainium Emulator Pack",
    "apkUrls": "[]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Obtainium Emulation Pack\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
@@ -268,19 +248,13 @@
    "url": "https://github.com/Waterdish/Shipwright-Android",
    "author": "Waterdish",
    "name": "Ship of Harkinian",
-   "installedVersion": "1.3.0",
-   "latestVersion": "1.3.0",
    "apkUrls": "[[\"soh.apk\",\"https://api.github.com/repos/Waterdish/Shipwright-Android/releases/assets/211707962\"]]",
    "otherAssetUrls": "[[\"1.3.0.tar.gz\",\"https://api.github.com/repos/Waterdish/Shipwright-Android/tarball/1.3.0\"],[\"1.3.0.zip\",\"https://api.github.com/repos/Waterdish/Shipwright-Android/zipball/1.3.0\"]]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-   "lastUpdateCheck": 1733920800058096,
-   "pinned": false,
    "categories": [
     "Ports"
    ],
-   "releaseDate": 1733548671000000,
-   "changeLog": "Initial implementation of touch controls.\r\n\r\n- Toggle button in bottom right corner.\r\n- Entire right side of screen moves the camera if \"Free Look\" is enabled.\r\n- D-Pad is for the c buttons \r\n- X and Y buttons can be bound to whatever you wish.",
    "overrideSource": null,
    "allowIdChange": true
   },
@@ -289,19 +263,13 @@
    "url": "https://github.com/Waterdish/2ship2harkinian-Android",
    "author": "Waterdish",
    "name": "2 Ship 2 Harkinian",
-   "installedVersion": "v1.1.1P4",
-   "latestVersion": "v1.1.1P4",
    "apkUrls": "[[\"2s2h.apk\",\"https://api.github.com/repos/Waterdish/2ship2harkinian-Android/releases/assets/208687559\"]]",
    "otherAssetUrls": "[[\"v1.1.1P4.tar.gz\",\"https://api.github.com/repos/Waterdish/2ship2harkinian-Android/tarball/v1.1.1P4\"],[\"v1.1.1P4.zip\",\"https://api.github.com/repos/Waterdish/2ship2harkinian-Android/zipball/v1.1.1P4\"]]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-   "lastUpdateCheck": 1733924200196281,
-   "pinned": false,
    "categories": [
     "Ports"
    ],
-   "releaseDate": 1732432348000000,
-   "changeLog": "Fixes a bug with free look not working on controller.",
    "overrideSource": "GitHub",
    "allowIdChange": false
   },
@@ -310,19 +278,13 @@
    "url": "https://github.com/keymapperorg/KeyMapper",
    "author": "keymapperorg",
    "name": "Key Mapper",
-   "installedVersion": "v2.7.0",
-   "latestVersion": "v2.7.0",
    "apkUrls": "[[\"keymapper-2.7.0.apk\",\"https://api.github.com/repos/keymapperorg/KeyMapper/releases/assets/211921750\"]]",
    "otherAssetUrls": "[[\"v2.7.0.tar.gz\",\"https://api.github.com/repos/keymapperorg/KeyMapper/tarball/v2.7.0\"],[\"v2.7.0.zip\",\"https://api.github.com/repos/keymapperorg/KeyMapper/zipball/v2.7.0\"]]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"An app for remapping keys or buttons on Android devices, allowing users to customize their device's input controls.\",\"refreshBeforeDownload\":false}",
-   "lastUpdateCheck": 1733920860831198,
-   "pinned": false,
    "categories": [
        "Utilities"
    ],
-   "releaseDate": 1733677799000000,
-   "changeLog": "New trigger 🎉!\n\nYou can now trigger your key maps from any of the ways your phone launches the assistant! This could be the Bixby button, Power button, or a button on your headset.",
    "overrideSource": null,
    "allowIdChange": false
   }
