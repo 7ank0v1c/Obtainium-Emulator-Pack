@@ -4,8 +4,7 @@
 An [Obtainium](https://github.com/ImranR98/Obtainium) import file that adds popular Android
 emulation applications to Obtainium.
 
-To get started, navigate to releases and download the latest obtainium-emulator-pack.json.
-Finally; import file with Obtainium.
+To begin, head over to the releases section and download the latest obtainium-emulator-pack.json file. Then, import the file using Obtainium.
 
 **Included Applications:**
 
@@ -29,7 +28,6 @@ Finally; import file with Obtainium.
 - Obtainium
 
 **Optional:**
-
 - More Crowdsourced app configurations available here; hosted by the maintainer of Obtainium:
     [apps.obtainium.imranr.dev](https://apps.obtainium.imranr.dev)
 
@@ -48,7 +46,7 @@ Finally; import file with Obtainium.
 **Citra and Yuzu:**
 - Regrettably, Citra and Yuzu are not included in this pack due to legal restrictions imposed by Nintendo.
 
-**A Note Regarding Stable, Nightly, and Canary Versions of the Same Application**
+**A Note Regarding Stable, Nightly, and Canary Versions of the Same Application:**
 - It is not possible to install multiple versions of the same application. For instance, you must choose between RetroArch (stable) and RetroArch (nightly). You cannot have both versions installed simultaneously.
 
 **How Does This Function?**
