@@ -99,19 +99,6 @@
    "overrideSource": "HTML",
    "allowIdChange": false
   },
-  {
-   "id": "io.github.lime3ds.android",
-   "url": "https://github.com/Lime3DS/lime3ds-archive",
-   "author": "lime3ds",
-   "name": "Lime3DS",
-   "apkUrls": "[[\"lime3ds-2115-android-universal.apk\",\"https://api.github.com/repos/Lime3DS/Lime3DS/releases/assets/176707919\"]]",
-   "preferredApkIndex": 0,
-   "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Lime3DS\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
-   "categories": [
-    "Emulator"
-   ],
-   "allowIdChange": false
-  },
     {
    "id": "azahar-emu.org",
    "url": "https://github.com/azahar-emu/azahar",
