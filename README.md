@@ -13,10 +13,10 @@ To begin, head over to the releases section and download the latest 'obtainium-e
 - Daijishou
 - Dolphin (Development Versions)
 - DuckStation (Beta Version)
-- Cemu Android
+- Cemu
 - EKA2L1
 - Key Mapper
-- Azahar (in testing)
+- Azahar
 - MelonDS (stable)
 - MelonDS (nightly)
 - NetherSX2 Patch (TRACK ONLY)
