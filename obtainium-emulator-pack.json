@@ -100,7 +100,7 @@
    "allowIdChange": false
   },
     {
-   "id": "io.github.lime3ds.android [Azahar]",
+   "id": "io.github.lime3ds.android",
    "url": "https://github.com/azahar-emu/azahar",
    "author": "azahar-emu",
    "name": "Azahar",
