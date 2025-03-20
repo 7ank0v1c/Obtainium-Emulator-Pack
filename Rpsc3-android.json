@@ -5,7 +5,7 @@
    "url": "https://github.com/RPCS3-Android/rpcs3-android",
    "author": "RPCS3-Android",
    "name": "RPCS3",
-   "apkUrls": "[[\"rpcs3-release.apk"\"https://github.com/RPCS3-Android/rpcs3-android/releases\"]]",
+   "apkUrls": "[[\"rpcs3-release.apk\",\"https://github.com/RPCS3-Android/rpcs3-android/releases\"]]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Rpcs3-Android\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
    "categories": [
