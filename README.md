@@ -16,6 +16,7 @@ To begin, head over to the releases section and download the latest 'obtainium-e
 - EKA2L1
 - Key Mapper
 - Lime3DS
+- Azahar
 - MelonDS (stable)
 - MelonDS (nightly)
 - NetherSX2 Patch (TRACK ONLY)
