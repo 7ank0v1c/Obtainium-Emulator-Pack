@@ -1,7 +1,7 @@
 {
  "apps": [
     {
-   "id": "98287487",
+   "id": "net.rpcs3",
    "url": "https://github.com/RPCS3-Android/rpcs3-android",
    "author": "RPCS3-Android",
    "name": "Rpcs3-Android",
