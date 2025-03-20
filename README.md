@@ -13,9 +13,9 @@ To begin, head over to the releases section and download the latest 'obtainium-e
 - Daijishou
 - Dolphin (Development Versions)
 - DuckStation (Beta Version)
+- Cemu Android
 - EKA2L1
 - Key Mapper
-- Lime3DS
 - Azahar (in testing)
 - MelonDS (stable)
 - MelonDS (nightly)
