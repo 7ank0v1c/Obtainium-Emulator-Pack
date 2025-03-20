@@ -1,17 +1,17 @@
 {
  "apps": [
     {
-   "id": "io.github.lime3ds.android",
-   "url": "https://github.com/azahar-emu/azahar",
-   "author": "azahar-emu",
-   "name": "Azahar",
-   "apkUrls": "[[\"azahar-2120-rc3-android-universal.apk\",\"https://github.com/azahar-emu/azahar/releases\"]]",
+   "id": "98287487",
+   "url": "https://github.com/RPCS3-Android/rpcs3-android",
+   "author": "RPCS3-Android",
+   "name": "Rpcs3-Android",
+   "apkUrls": "[[\"rpcs3-release.apk\",\"https://github.com/RPCS3-Android/rpcs3-android/releases\"]]",
    "preferredApkIndex": 0,
-   "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Azahar\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
+   "additionalSettings": "{\"includePrereleases\":true,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Rpcs3-Android\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
    "categories": [
     "Emulator"
    ],
-   "allowIdChange": false
+   "allowIdChange": true
   }
  ]
 }
