@@ -100,7 +100,7 @@
    "allowIdChange": false
   },
     {
-   "id": "azahar-emu.org",
+   "id": "io.github.lime3ds.android [Azahar]",
    "url": "https://github.com/azahar-emu/azahar",
    "author": "azahar-emu",
    "name": "Azahar",
@@ -147,19 +147,6 @@
    "apkUrls": "[]",
    "preferredApkIndex": 0,
    "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"Turnip\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Turnip Drivers\",\"shizukuPretendToBeGooglePlay\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
-   "categories": [
-    "Track Only"
-   ],
-   "allowIdChange": true
-  },
-  {
-   "id": "904332840",
-   "url": "https://github.com/RJNY/Obtainium-Emulation-Pack",
-   "author": "RJNY",
-   "name": "Obtainium Emulation Pack",
-   "apkUrls": "[]",
-   "preferredApkIndex": 0,
-   "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"dontSortReleasesList\":false,\"useLatestAssetDateAsReleaseDate\":false,\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Obtainium Emulation Pack\",\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\"}",
    "categories": [
     "Track Only"
    ],
